@@ -1,4 +1,8 @@
 ### Hi I'm Juan 👋
+<hr>
+<p><i> 🔭 I'm web developer with 3 years of experience.</i></p> 
+<p><i> 🌱 I'm studying 2 HNCs named: <b>"Web applications development"</b> and <b>"Cross-platform application development"</b> at</i>
+<a href="http://www.iesaguadulce.es/centro/index.php">I.E.S. Aguadulce</a></p>
 
 [![Linkedin: juanjoseburgossanchez](https://img.shields.io/badge/-JuanBurgos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/juanjoseburgossanchez/)](https://linkedin.com/in/juanjoseburgossanchez/)
 [![Twitter: jjbs_dev](https://img.shields.io/twitter/follow/jjbs_dev?style=social)](https://twitter.com/jjbs_dev)
