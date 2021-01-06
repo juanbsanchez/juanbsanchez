@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Juan 👋
+
+```js
+const juanbsanchez = {
+  pronouns: 'he' | 'him',
+  code: ['HTML', 'CSS', 'Javascript', 'PHP', 'Java', 'C#', 'Python', 'Lisp', 'Clojure'],
+  bbdd: ['mysql', 'postgresql', 'mongodb'],
+  tools: ['Laravel', 'Vue', 'React', 'Node', 'Flask'],
+  cms: ['Wordpress', 'Moodle']
+}
+```
 
 <!--
 **juanbsanchez/juanbsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
