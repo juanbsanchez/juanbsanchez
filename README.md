@@ -15,7 +15,7 @@ const juanbsanchez = {
   pronouns: 'he' | 'him',
   code: ['HTML', 'CSS', 'Javascript', 'PHP', 'Java', 'C#', 'Python', 'Lisp', 'Clojure'],
   bbdd: ['mysql', 'postgresql', 'mongodb'],
-  tools: ['Laravel', 'Vue', 'React', 'Node', 'Flask'],
+  tools: ['Laravel', 'Vue', 'React', 'Angular', 'Node', 'Flask'],
   cms: ['Wordpress', 'Moodle']
 }
 ```
