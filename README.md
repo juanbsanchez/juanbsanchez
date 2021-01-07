@@ -1,4 +1,4 @@
-### Hi I'm Juan. I'm from Málaga, Spain. ![me](https://raw.githubusercontent.com/lipis/flag-icon-css/1dda087cee478cdd4d180dbdbab5a6f2fba9e70a/flags/4x3/es.svg | width=100)
+### Hi I'm Juan. I'm from Málaga, Spain. <img src="https://raw.githubusercontent.com/lipis/flag-icon-css/1dda087cee478cdd4d180dbdbab5a6f2fba9e70a/flags/4x3/es.svg" alt="spain flag" width="20"/>
 <hr>
 <p><i> 🔭 I'm web developer with 3 years of experience.</i></p> 
 <p><i> 🌱 I'm studying 2 HNCs named: <b>"Web applications development"</b> and <b>"Cross-platform applications development"</b> at</i>
