@@ -19,8 +19,8 @@ const juanbsanchez = {
   cms: ['Wordpress', 'Moodle']
   passions: {
               music: {
-                      gnere: ['any style']
-                      own: ['play bass', 'compose electronic music'],
+                      gnere: ['any style'],
+                      own: ['play bass', 'compose electronic music']
                       },
               books: ['sci-fi', 'history'],
               games: {
