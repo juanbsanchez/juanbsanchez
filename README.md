@@ -17,6 +17,16 @@ const juanbsanchez = {
   bbdd: ['mysql', 'postgresql', 'mongodb'],
   tools: ['Laravel', 'Vue', 'React', 'Angular', 'Node', 'Flask'],
   cms: ['Wordpress', 'Moodle']
+  passions: {
+              music: {
+                      gnere: ['any style']
+                      own: ['play bass', 'compose electronic music']
+                      }
+              books: ['sci-fi', 'history'],
+              games: {
+                      gnere: ['strategy', 'simulation']
+                     }
+            }
 }
 ```
 
