@@ -16,7 +16,7 @@ const juanbsanchez = {
   code: ['HTML', 'CSS', 'Javascript', 'PHP', 'Java', 'C#', 'Python', 'Lisp', 'Clojure'],
   bbdd: ['mysql', 'postgresql', 'mongodb'],
   tools: ['Laravel', 'Vue', 'React', 'Angular', 'Node', 'Flask'],
-  cms: ['Wordpress', 'Moodle']
+  cms: ['Wordpress', 'Moodle'],
   passions: {
               music: {
                       gnere: ['any style'],
