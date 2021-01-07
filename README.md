@@ -21,7 +21,7 @@ const juanbsanchez = {
               music: {
                       gnere: ['any style']
                       own: ['play bass', 'compose electronic music']
-                      }
+                      },
               books: ['sci-fi', 'history'],
               games: {
                       gnere: ['strategy', 'simulation']
