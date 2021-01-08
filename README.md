@@ -8,7 +8,7 @@
 [![Twitter: jjbs_dev](https://img.shields.io/twitter/follow/jjbs_dev?style=social)](https://twitter.com/jjbs_dev)
 [![GitHub juanbsanchez](https://img.shields.io/github/followers/juanbsanchez?label=follow&style=social)](https://github.com/juanbsanchez)
 
-<h3>A little more about me...</h3>
+<h3>A little more about me in Javascript... 😄</h3>
 
 ```javascript
 const juanbsanchez = {
