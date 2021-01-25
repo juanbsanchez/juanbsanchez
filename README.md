@@ -27,7 +27,7 @@ const juanbsanchez = {
     :initform (list 'rock 'blues 'jazz 'flamenco)
     :initarg  :music
     :type list
-    :documentation "my favorite kind of music genres"
+    :documentation "my favorite music genres"
     :accessor music)
     
     (books
