@@ -39,7 +39,7 @@ const juanbsanchez = {
     (games
     :initform (list 'strategy 'simulation)
     :initarg :games
-    :documentation  "my favorite games genres"
+    :documentation  "my favorite game genres"
     :accesor games))
 
     (:documentation "A little about me in Common Lisp"))
