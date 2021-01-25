@@ -24,7 +24,7 @@ const juanbsanchez = {
 ```lisp
 (defclass passions-and-hobbies ()
   ((music
-    :initform (list 'rock 'blues 'jazz 'flamenco)
+    :initform (list 'rock 'blues 'jazz 'flamenco 'electronic 'folk 'ambient)
     :initarg  :music
     :type list
     :documentation "my favorite music genres"
