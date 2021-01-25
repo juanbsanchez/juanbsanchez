@@ -17,17 +17,32 @@ const juanbsanchez = {
   bbdd: ['mysql', 'postgresql', 'mongodb'],
   tools: ['Laravel', 'Vue', 'React', 'Angular', 'Node', 'Flask'],
   cms: ['Wordpress', 'Moodle'],
-  passions: {
-              music: {
-                      gnere: ['any style'],
-                      own: ['play bass', 'compose electronic music']
-                      },
-              books: ['sci-fi', 'history'],
-              games: {
-                      gnere: ['strategy', 'simulation']
-                     }
-            }
 }
+```
+<h4>Continue in Lisp...</h4>
+
+```lisp
+(defclass passions-and-hobbies ()
+  ((music
+    :initform (list 'rock 'blues 'jazz 'flamenco)
+    :initarg  :music
+    :type list
+    :documentation "my favorite kind of music genres"
+    :accessor music)
+    
+    (books
+    :initform (list 'sci-fi 'history)
+    :initarg :books
+    :documentation  "my favorite book genres"
+    :accesor books)
+    
+    (games
+    :initform (list 'strategy 'simulation)
+    :initarg :games
+    :documentation  "my favorite games genres"
+    :accesor games))
+
+    (:documentation "A little about me in Common Lisp"))
 ```
 
 <!--
